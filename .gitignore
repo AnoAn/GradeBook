@@ -1,0 +1,7 @@
+.vscode/
+Learning notes.docx
+src/GradeBook/bin
+src/GradeBook/obj
+test/gradebook.test/bin
+test/gradebook.test/obj
+gradebook.sln
